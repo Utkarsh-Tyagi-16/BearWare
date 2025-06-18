@@ -100,10 +100,6 @@ Contributions are welcome! Please open issues and pull requests.
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License.
-
----
 
 ## 🙏 Credits
 - Built with ❤️ by [Utkarsh Tyagi](https://github.com/Utkarsh-Tyagi-16)
