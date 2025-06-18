@@ -21,19 +21,6 @@ BearWare is a modern, full-stack event management platform designed for teams an
 
 ---
 
-## 🏗️ Architecture
-```mermaid
-graph TD;
-  A[Client (Next.js/React)] -->|API Calls| B[API Routes]
-  B --> C[Server Logic]
-  C --> D[Prisma ORM]
-  D --> E[(Database)]
-  C --> F[Stripe]
-  C --> G[Auth Provider]
-  B --> H[Edge/Serverless Functions]
-```
-
----
 
 ## 📦 Tech Stack
 - **Frontend:** Next.js 14, React 18, Tailwind CSS
