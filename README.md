@@ -7,6 +7,11 @@
 ## 📖 Overview
 BearWare is a modern, full-stack event management platform designed for teams and communities. It provides a seamless dashboard experience, robust authentication, category-based event organization, and integrated payment solutions. Built with scalability, security, and developer experience in mind.
 
+"BearWare is a modern event management platform I developed using Next.js, Prisma, and PostgreSQL. The main goal was to allow users to create, manage, and categorize events efficiently, with a focus on a seamless and secure user experience.
+I implemented secure authentication and a dynamic dashboard where users can view and organize their events in real time. For payments, I integrated Stripe, enabling users to purchase event-related services directly through the platform. I also connected the Discord API to send automated notifications, which helps keep users engaged and informed about their events.
+On the frontend, I used Tailwind CSS to design a fully responsive interface, ensuring the platform works smoothly on both desktop and mobile devices. Throughout the project, I focused on optimizing performance and user engagement, resulting in a robust, scalable solution that supports hundreds of users and transactions."
+
+
 ---
 
 ## ✨ Features
