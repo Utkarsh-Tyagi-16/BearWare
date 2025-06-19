@@ -108,4 +108,3 @@ Contributions are welcome! Please open issues and pull requests.
 
 ## 🙏 Credits
 - Built with ❤️ by [Utkarsh Tyagi](https://github.com/Utkarsh-Tyagi-16)
-- Thanks to the open-source community and all contributors! 
